@@ -10,3 +10,5 @@ Dynamic wireless charging addresses these issues by allowing EVs to **recharge w
 
 The power required for this charging system can come from **renewable energy sources**, such as **solar panel**, promoting sustainable transportation. To implement this, a **dedicated lane** can be built for EVs that need to recharge while driving, helping them extend their range without stopping.
 
+![dynamic wireless charging](https://github.com/EmbeddedKidaa/Dynamic-Wireless-Electric-Vehicle-Charging/blob/main/img.jpg)
+
